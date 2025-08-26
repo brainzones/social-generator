@@ -1,0 +1,5 @@
+{
+  "name": "social-generator",
+  "description": "A tool to create teaching strategy cards. Enter your content, then use AI to instantly generate the psychological research that backs up your strategy.",
+  "requestFramePermissions": []
+}
